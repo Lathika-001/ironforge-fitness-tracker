@@ -33,11 +33,6 @@ This project is integrated with Supabase for backend functionality including:
 
 The `.env` file should already be configured with your Supabase credentials:
 
-```env
-VITE_SUPABASE_URL=https://ozqqcufkypbxypmbzhhh.supabase.co
-VITE_SUPABASE_PUBLISHABLE_KEY=sb_publishable_JBr18KxtXGG2WcqQCRjLkQ_9vSYNmtZ
-```
-
 ### 2. Install Dependencies
 
 Dependencies are already installed. If needed, run:
