@@ -1,73 +1,44 @@
-# Welcome to your Lovable project
+# IronForge Fitness Tracker
 
-## Project info
+IronForge is a modern web-based fitness tracking application that helps users manage workouts, track progress, and stay consistent with their fitness goals.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Features
+- User authentication (Sign Up / Login)
+- Workout tracking
+- Meal logging system
+- Before & After progress photo uploads
+- Track fitness progress over time
+- Clean and responsive UI
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
 - Tailwind CSS
+- Vite
+- Supabase (Authentication & Database)
 
-## How can I deploy this project?
+## Live Demo
+https://your-netlify-link.netlify.app
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## Installation
 
-## Can I connect a custom domain to my Lovable project?
+Clone the repository:
 
-Yes, you can!
+git clone https://github.com/Lathika-001/ironforge-fitness-tracker.git
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Install dependencies:
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+npm install
+
+Run the project:
+
+npm run dev
+
+## Project Structure
+src/ – Application source code  
+public/ – Static assets  
+index.html – Main entry point  
+
+## Author
+Lathika
