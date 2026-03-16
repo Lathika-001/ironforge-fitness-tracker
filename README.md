@@ -19,7 +19,7 @@ IronForge is a modern web-based fitness tracking application that helps users ma
 - Supabase (Authentication & Database)
 
 ## Live Demo
-https://your-netlify-link.netlify.app
+https://ironforge-fitness.netlify.app
 
 ## Installation
 
